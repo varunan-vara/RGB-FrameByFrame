@@ -6,3 +6,5 @@
  It takes a snapshot of a video after a set amount of time, and saves the image in a folder for further examination. It then receives the RGB value of an image from a pixel specified in the code and writes it to a "results.csv". 
 
 IMPORTANT: run pip install opencv-python
+
+### Data.xlsx is the Raw Data Table collected from the Experiment, in five unique trials
